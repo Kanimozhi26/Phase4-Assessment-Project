@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Kanimozhi",
+      "lastName": "M",
+      "email": "kanimozhi@gmail.com"
+    },
+    {
+      "id": 3,
+      "firstName": "Kasthuri",
+      "lastName": "M",
+      "email": "kasthuri1973@gmail.com"
+    }
+  ]
+}
